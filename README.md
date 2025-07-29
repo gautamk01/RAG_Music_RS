@@ -13,7 +13,7 @@ This project implements a novel **Retrieval-Augmented Generation (RAG)** framewo
 ## Architecture
 
 The system operates as a multi-stage RAG pipeline:
-
+![Architecture Diagram](RAG_Architecture.png)
 
 
 ## Authors
